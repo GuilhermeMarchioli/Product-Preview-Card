@@ -109,3 +109,8 @@ section#content button:hover {
 section#content button > svg {
     padding-right: 10px;
 }
+
+footer {
+    align-self: flex-end;
+
+}
