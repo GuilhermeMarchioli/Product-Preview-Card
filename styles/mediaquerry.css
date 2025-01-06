@@ -20,7 +20,7 @@
     }
 
     section#background {
-        background-image: url('../images/image-product-desktop.jpg');
+        background-image: url(../images/image-product-desktop.jpg);
         width: 50%;
         height: 100%;
     }

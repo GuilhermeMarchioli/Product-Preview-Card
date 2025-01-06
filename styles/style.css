@@ -25,6 +25,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 20px;
 }
 
 main {
@@ -108,9 +109,4 @@ section#content button:hover {
 
 section#content button > svg {
     padding-right: 10px;
-}
-
-footer {
-    align-self: flex-end;
-
 }
