@@ -113,3 +113,9 @@ section#content button:hover {
 section#content button > svg {
     padding-right: 10px;
 }
+
+.attribution {
+    text-align: center;
+    font-size: 0.7em;
+    margin-top: 10px;
+}
