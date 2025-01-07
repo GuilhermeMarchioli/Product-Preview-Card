@@ -40,6 +40,7 @@ main {
     overflow: hidden;
     border-radius: 10px;
     margin: auto;
+    box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.438);
 }
 
 section#background {
